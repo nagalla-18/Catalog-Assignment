@@ -1,0 +1,3 @@
+PS C:\Users\Nvs sravya\Desktop\Catalog Assignment Koushik (1237)> node solution.js
+Secret 1: 3
+Secret 2: 79836264046592
